@@ -1,0 +1,11 @@
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\tower_layer-8675e400a2a81e97.rmeta: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\identity.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\layer_fn.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\stack.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\tuple.rs
+
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\libtower_layer-8675e400a2a81e97.rlib: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\identity.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\layer_fn.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\stack.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\tuple.rs
+
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\tower_layer-8675e400a2a81e97.d: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\identity.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\layer_fn.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\stack.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\tuple.rs
+
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\lib.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\identity.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\layer_fn.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\stack.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-layer-0.3.2\src\tuple.rs:

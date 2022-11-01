@@ -1,0 +1,12 @@
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\httparse-b5e53145fc871e57.rmeta: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\libhttparse-b5e53145fc871e57.rlib: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\httparse-b5e53145fc871e57.d: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs:

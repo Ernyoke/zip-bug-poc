@@ -1,0 +1,11 @@
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\futures_channel-c311e261586d844e.rmeta: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lock.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\mod.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\queue.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\oneshot.rs
+
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\libfutures_channel-c311e261586d844e.rlib: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lock.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\mod.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\queue.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\oneshot.rs
+
+E:\Projects\rust\zip-bug-poc\target\x86_64-unknown-linux-gnu\release\deps\futures_channel-c311e261586d844e.d: C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lib.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lock.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\mod.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\queue.rs C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\oneshot.rs
+
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lib.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lock.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\mod.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\queue.rs:
+C:\Users\ervin\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\oneshot.rs:
